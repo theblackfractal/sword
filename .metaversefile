@@ -1,6 +1,6 @@
 {
-  "name": "sword",
-  "start_url": "sword.glb",
+  "name": "neonkatana",
+  "start_url": "neonkatana.glb",
   "components": [
     {
       "key": "wear",
