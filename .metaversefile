@@ -1,6 +1,6 @@
 {
-  "name": "neonkatana",
-  "start_url": "neonkatana.glb",
+  "name": "dangersword",
+  "start_url": "danger-sword-wbv.glb",
   "components": [
     {
       "key": "wear",
