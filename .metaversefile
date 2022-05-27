@@ -1,6 +1,6 @@
 {
   "name": "dangersword",
-  "start_url": "danger-sword-wbv.glb",
+  "start_url": "danger-sword-neon-wbv.glb",
   "components": [
     {
       "key": "wear",
